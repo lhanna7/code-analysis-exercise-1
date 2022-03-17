@@ -27,7 +27,7 @@ function (number){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
+|  2    |    3   | 
 |       |        | 
 |       |        | 
 
